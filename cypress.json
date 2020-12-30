@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "integrationFolder": "C:/Users/M1049177/source/cypress-shopping-cart/cypress/integration",
+  "fixturesFolder": "C:/Users/M1049177/source/cypress-shopping-cart/cypress/fixtures",
+  "supportFile": "C:/Users/M1049177/source/cypress-shopping-cart/cypress/support/index.js",
+  "pluginsFile": "C:/Users/M1049177/source/cypress-shopping-cart/cypress/plugins/index.js"
+}

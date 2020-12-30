@@ -1,0 +1,12 @@
+.custom-radio-btn, .custom-checkbox_input {
+    padding:8px !important;
+}
+.form-control {
+    height: 50px !important;
+}
+.text-remove-selected {
+    font-size: 1rem;
+    font-weight: normal;
+    cursor: pointer;
+    padding-left: 2rem;
+  }
