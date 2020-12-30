@@ -18,7 +18,7 @@ export const  store = createStore(reducer);
   if (window.Cypress) {
     window.store = store;
   }
-
+//https://gowrikumar-personalswot.medium.com/cypress-emerging-automate-frontend-testing-framework-8c95f414dd93
 class App extends Component {
   render() {
     return (
